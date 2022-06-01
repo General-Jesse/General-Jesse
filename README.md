@@ -1,0 +1,5 @@
+- 👋 Hi, I’m General Jesse
+- 👀 I’m interested in Python for geosciences
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Geoscience and Python related projects 
+- 📫 How to reach me oladipojesse@gmail.com
